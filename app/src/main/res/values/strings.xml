@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyKotlinApp</string>
+    <string name="hello_android_extensions">Hello Android Extensions!</string>
 </resources>
